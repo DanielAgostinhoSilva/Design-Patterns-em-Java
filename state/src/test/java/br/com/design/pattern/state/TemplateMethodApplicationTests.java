@@ -1,7 +1,7 @@
-package br.com.design.pattern.templatemethod;
+package br.com.design.pattern.state;
 
-import br.com.design.pattern.templatemethod.desconto.CalculadoraDeDescontos;
-import br.com.design.pattern.templatemethod.orcamento.Orcamento;
+import br.com.design.pattern.state.desconto.CalculadoraDeDescontos;
+import br.com.design.pattern.state.orcamento.Orcamento;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.util.Assert;
